@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "696342895103",
+    "firebase_url": "https://testapp-b374d.firebaseio.com",
+    "project_id": "testapp-b374d",
+    "storage_bucket": "testapp-b374d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696342895103:android:6e1e6fdbfcdac303",
+        "android_client_info": {
+          "package_name": "arab_open_university.com.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696342895103-unrvb91d4d53pe8ne7oseap9jtth97ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflxKHwQ1qmTgPGLpfCfY0Zn2O-Majjh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
